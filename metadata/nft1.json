@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 1",
+    "description": "A dynamic stickman basketball player making a layup.",
+    "image": "ipfs://QmeavYgfWvPDkWtEKp2R1b16A4UDzC4etRjpBBDwMo8nGB",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Layup"
+        }
+    ]
+}

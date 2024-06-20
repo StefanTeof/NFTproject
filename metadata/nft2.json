@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 2",
+    "description": "A dynamic stickman basketball player making a fake pass.",
+    "image": "ipfs://QmSg22sPi7Y8huYJp1j5p6EzQXH7noK8HiHTd7AHF83NgS",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Fake Passing"
+        }
+    ]
+}

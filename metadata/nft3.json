@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 3",
+    "description": "A dynamic stickman basketball player making behind the back dribble.",
+    "image": "ipfs://QmVUS1kzqYqtwxQbXzwydBS4nYc1S5GQG6KECnshYD53j7",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Behind the back"
+        }
+    ]
+}

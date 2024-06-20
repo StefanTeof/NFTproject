@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 6",
+    "description": "A dynamic stickman basketball player securing the ball.",
+    "image": "ipfs://QmayFXoctoV1anfpQUU3WgTFB3tE9e2oHf6MWQkY4hyyJA",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Securing the ball"
+        }
+    ]
+}

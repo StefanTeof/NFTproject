@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 9",
+    "description": "A dynamic stickman basketball player reverse dunk.",
+    "image": "ipfs://QmPeG19JF2soQ7KjS5QyJy2iX32T1XCprPyV4aD6tBojeL",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Reverse dunk"
+        }
+    ]
+}

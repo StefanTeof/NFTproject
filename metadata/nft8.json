@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 8",
+    "description": "A dynamic stickman basketball player dunking.",
+    "image": "ipfs://QmQgScaeoXZK4T8wibNR1kGTM2UkW38NyhLKd9eedMrhxS",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Dunking"
+        }
+    ]
+}

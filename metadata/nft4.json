@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Basketball Player 4",
+    "description": "A dynamic stickman basketball player making a hesi shot.",
+    "image": "ipfs://QmaFQAUuCWFgju3gtwcrt9DURbXdky11CRW9erEknvqr26",
+    "attributes": [
+        {
+            "trait_type": "Action",
+            "value": "Hesi Shot"
+        }
+    ]
+}
